@@ -1,24 +1,28 @@
-# create-new-revealjs-template
-Reveal.js template presentation as a GitHub repo Template
-* Includes Reveal.js as a Git submodule so that its commit history is not confused with this presentation's history
-* Makes future updating of Reveal.js version very easy
-* Reduces the size of the presentation repositories significantly
+<p align="center">
+  <a href="https://revealjs.com">
+  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
+  </a>
+  <br><br>
+  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
+  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
+</p>
 
-## Usage
-1. Click 'Use This Template'
-1. Name your presentation and it will be created in your own GitHub account/org
-1. Customise as necessary
-1. Push completed slides back to GitHub
-1. Configure your GitHub pages settings to serve the slides from _youraccount_.github.io (or custom domain even)
-1. **Amaze your friends** by being able to share the URL of your live, interactive slides with your audience immediately. No more emailing PowerPoint attachments for YOU!
+reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
 
-## Credits
-* [Hakim El-Hattab](https://twitter.com/hakimel) for the simple awesome [Reveal.js](https://github.com/hakimel/reveal.js)
-* [Martino Mensio](https://twitter.com/MartinoMensio) for his guide on how to use Reveal.js as a Git submodule in [this](https://martinomensio.medium.com/how-to-host-reveal-js-slides-on-github-pages-and-have-a-tidy-repository-1a363944c38d) blog post (and in doing so I learned how to use and not fear the Submodule!)
-* [Excalidraw](https://excalidraw.com/) which is a separate project, mentioned in my presentation template, but I love it so much I wanted to plug it here too.
+The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
+
+<h1>
+  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
+</h1>
+
+## Documentation
+The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
+
+## Online Editor
+Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
 
 ## License
-* MIT Licensed as per Reveal.js itself
 
-## Contributing
-* Feel free to make suggestions and PRs to the template repo
+MIT licensed
+
+Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
